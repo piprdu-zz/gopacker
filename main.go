@@ -14,7 +14,7 @@ func main() {
 
 	fmt.Println(greeting.WelcomeText)
 
-	fmt.Println(strings.Reverse("callicoder"))
+	fmt.Println(strings.Reverse("gopacker"))
 
 	fmt.Println(str.Count("Go is Awesome. I love Go", "Go"))
 }
