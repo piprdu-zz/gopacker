@@ -4,9 +4,9 @@ import (
 	"fmt"
 	str "strings" // Package Alias
 
-	"github.com/piprdu/gopacker/greeting" // Importing a nested package
 	"github.com/piprdu/gopacker/numbers"
 	"github.com/piprdu/gopacker/strings"
+	"github.com/piprdu/gopacker/strings/greeting" // Importing a nested package
 )
 
 func main() {
